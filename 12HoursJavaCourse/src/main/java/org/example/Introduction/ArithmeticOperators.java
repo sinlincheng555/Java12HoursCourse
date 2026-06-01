@@ -45,8 +45,10 @@ public class ArithmeticOperators {
         System.out.println(xxx1);
         System.out.println(xxx);
 
-        //Oder of Operations [P-E-M-D-A-S]
+        //Order of Operations [P-E-M-D-A-S]
 
+            double result = 3 + 4;
 
+            System.out.println(result);
     }
 }

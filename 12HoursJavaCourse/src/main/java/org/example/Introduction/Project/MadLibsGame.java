@@ -1,4 +1,4 @@
-package org.example.Introduction;
+package org.example.Introduction.Project;
 import java.util.Scanner;
 
 public class MadLibsGame {
