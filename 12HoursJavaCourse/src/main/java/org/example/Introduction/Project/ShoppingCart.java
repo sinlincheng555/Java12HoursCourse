@@ -11,7 +11,7 @@ public class ShoppingCart {
         String items;
         double price;
         int quantity;
-        char currnecy = '£';
+        char currency = '£';
         double total;
 
 
@@ -27,7 +27,7 @@ public class ShoppingCart {
         total = price * quantity;
 
         System.out.println("You have bought " + quantity + " " + items);
-        System.out.println("The total are: " + currnecy + total);
+        System.out.println("The total are: " + currency + total);
 
         scanner.close();
 
